@@ -1,0 +1,32 @@
+{
+  "name": "team-no-sleep",
+  "version": "1.0.0",
+  "description": "Website for interation with charts",
+  "main": "index.js",
+  "scripts": {
+    "build": "nwb build",
+    "clean": "nwb clean",
+    "start": "nwb serve",
+    "test": "nwb test"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "nwb": "0.7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobfoard/teamNoSleep.git"
+  },
+  "author": "Jacob Foard <jfoard@redventures.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobfoard/teamNoSleep/issues"
+  },
+  "homepage": "https://github.com/jacobfoard/teamNoSleep#readme",
+  "dependencies": {
+    "nwb": "^0.8.1"
+  }
+}
